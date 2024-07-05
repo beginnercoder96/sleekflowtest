@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apple iPhone 15 Pro_1</name>
+   <tag></tag>
+   <elementGuidId>17e2432c-cef4-4920-972a-be1db921d2ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Apple iPhone 15 Pro&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Apple iPhone 15 Pro&quot;s] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5688474a-2fdf-49ca-8286-0923d740b774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>age</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>57ea9d65-fe7c-4e65-ad01-a102b5c66520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.lazada.co.id/products/apple-iphone-15-pro-i7733246955.html?spm=a2o4j.searchlist.list.2.503c4589mnR4ol</value>
+      <webElementGuid>035958a9-0ead-4700-8048-38e98ee79cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Apple iPhone 15 Pro</value>
+      <webElementGuid>48f38e30-4727-4989-a209-4cc9d787d83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.searchlist.list.2</value>
+      <webElementGuid>2aa36ffe-fb6a-4cc7-8fa5-aebc74329d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple iPhone 15 Pro</value>
+      <webElementGuid>6613c7a2-9edf-4355-a42c-d1465525ecef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-24 css-1bkhbmc app&quot;]/div[@class=&quot;ant-row css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-20 ant-col-push-4 Jv5R8 css-1bkhbmc app&quot;]/div[@class=&quot;_17mcb&quot;]/div[@class=&quot;Bm3ON&quot;]/div[@class=&quot;Ms6aG&quot;]/div[@class=&quot;qmXQo&quot;]/div[@class=&quot;buTCk&quot;]/div[@class=&quot;RfADt&quot;]/a[1]</value>
+      <webElementGuid>9492dd28-1518-4ddb-8e29-fc02452947d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>4dabba16-59bb-4f6a-aebf-5c5756654510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apple iPhone 15 Pro')]</value>
+      <webElementGuid>c2fe033f-92c2-48fa-a91d-f9d0d8cab24f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat:'])[1]/following::a[2]</value>
+      <webElementGuid>54091cd6-4ea9-4b1f-a916-87d446cb68a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terkait'])[1]/following::a[2]</value>
+      <webElementGuid>a9dfd928-5820-4b37-afeb-6bdbac1e4b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp19.249.000'])[1]/preceding::a[1]</value>
+      <webElementGuid>00536785-d7dd-4e9b-bbe4-b686bf20025f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(50)'])[1]/preceding::a[1]</value>
+      <webElementGuid>7e7a8ab3-17c3-49b6-9916-522e65c6ea05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple iPhone 15 Pro']/parent::*</value>
+      <webElementGuid>0ff3e899-26d0-4b2b-96aa-ffe2c84d07a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.lazada.co.id/products/apple-iphone-15-pro-i7733246955.html?spm=a2o4j.searchlist.list.2.503c4589mnR4ol')]</value>
+      <webElementGuid>51f43a53-2827-45af-90be-065ac4fee56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>1c841f75-b167-4e57-921b-3897b7be8baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.lazada.co.id/products/apple-iphone-15-pro-i7733246955.html?spm=a2o4j.searchlist.list.2.503c4589mnR4ol' and @title = 'Apple iPhone 15 Pro' and (text() = 'Apple iPhone 15 Pro' or . = 'Apple iPhone 15 Pro')]</value>
+      <webElementGuid>59d83e38-16ba-465e-99d0-bcecf2dff28d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

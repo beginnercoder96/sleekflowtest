@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Apple iPhone 15 Pro</name>
+   <tag></tag>
+   <elementGuidId>1fe585dd-291f-4dfa-aaff-1c9ec6332747</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module_product_title_1']/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.pdp-mod-product-badge-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Apple iPhone 15 Pro&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>5fa800fa-ee90-4fc4-beef-810d1994709d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pdp-mod-product-badge-title</value>
+      <webElementGuid>75bbd6e6-ae82-47e6-8d3d-a5ef0d473821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.pdp_revamp.0.i0.5b923f98K3AcQp</value>
+      <webElementGuid>15972ee9-f2d5-4932-af23-84a1bfdda5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple iPhone 15 Pro</value>
+      <webElementGuid>080e8d50-43d5-4475-83b1-21876b860f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module_product_title_1&quot;)/div[@class=&quot;pdp-product-title&quot;]/div[@class=&quot;pdp-mod-product-badge-wrapper&quot;]/h1[@class=&quot;pdp-mod-product-badge-title&quot;]</value>
+      <webElementGuid>c5e0406c-adbc-4fd7-add0-00362e279404</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module_product_title_1']/div/div/h1</value>
+      <webElementGuid>06fc91e7-5340-44f6-a690-bab23e99f5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple iPhone 15 Pro'])[1]/following::h1[1]</value>
+      <webElementGuid>5fd7f383-878c-4618-81a6-d0dbcbdeb605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smartphones'])[1]/following::h1[1]</value>
+      <webElementGuid>219a3b8f-82fb-47d7-98cd-9f8ee440b578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merek:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>352f11c0-1aad-42bf-a686-26e876726443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple'])[1]/preceding::h1[1]</value>
+      <webElementGuid>3d8ecf41-ece7-44af-bc7f-053ef4343c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>86bebb37-c8d1-4acf-a1e6-327abbacb94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Apple iPhone 15 Pro' or . = 'Apple iPhone 15 Pro')]</value>
+      <webElementGuid>3dac4f56-bc4e-4b26-9615-3546d1209fd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

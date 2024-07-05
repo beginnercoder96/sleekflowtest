@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Situs Jual Beli Online Terlengkap, Mud_c2d1e5/input_Kategori_css-3017qm exxxdg63",
+      "brokenLocator": "//input[@value\u003d\u0027i\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027header-main-wrapper\u0027]/div[2]/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Situs Jual Beli Online Terlengkap, Mud_c2d1e5/input_Kategori_css-3017qm exxxdg63_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Promo (IBOX) Apple iPhone 15 Pro 1TB 5_18c873/div_Rp17.836.000",
+      "brokenLocator": "//div[@id\u003d\u0027pdp_comp-product_content\u0027]/div/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[(text() \u003d \u0027Rp17.836.000\u0027 or . \u003d \u0027Rp17.836.000\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Promo (IBOX) Apple iPhone 15 Pro 1TB 5_18c873/div_Rp17.836.000_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Jual iphone 15 pro  Tokopedia/span_(IBOX) Apple iPhone 15 Pro 1TB 512GB 2_0c88ab",
+      "brokenLocator": "//div[@id\u003d\u0027zeus-root\u0027]/div/div[2]/div/div[2]/div[4]/div/div/a/div/div[2]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Rp17.836.000\u0027])[2]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Jual iphone 15 pro  Tokopedia/span_(IBOX) Apple iPhone 15 Pro 1TB 512GB 2_0c88ab_neighbor.png"
+    }
+  ]
+}

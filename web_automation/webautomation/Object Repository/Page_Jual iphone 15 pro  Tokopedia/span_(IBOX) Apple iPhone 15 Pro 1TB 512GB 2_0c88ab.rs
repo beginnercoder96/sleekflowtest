@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(IBOX) Apple iPhone 15 Pro 1TB 512GB 2_0c88ab</name>
+   <tag></tag>
+   <elementGuidId>9489b688-1bf0-4979-9163-0101c4cfa7f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div/a/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;product-image 22% Super Gadget Day Ad (IBOX) Apple iPhone 15 Pro 1TB 512GB 256GB 128GB Black Blue Titanium - 128GB PROMO, Black Titanium Rp17.836.000 Rp22,9jt Diskon 300rb rating 5.0 500+ terjual shop badge Putra Group Jakarta Pusat three dots&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>54d15d2a-1718-4a5a-960c-e359f1aa2dc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OWkG6oHwAppMn1hIBsC3pQ==</value>
+      <webElementGuid>8bd45c52-f9d2-4c6f-8708-0894c90ced15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(IBOX) Apple iPhone 15 Pro 1TB 512GB 256GB 128GB Black Blue Titanium - 128GB PROMO, Black Titanium</value>
+      <webElementGuid>57e2d218-328f-4fd1-a32e-1bf7c55ec14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[4]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-5wh65g&quot;]/a[@class=&quot;Nq8NlC5Hk9KgVBJzMYBUsg== _9iR4AH1Hmh9qL02FRNUyvw==&quot;]/div[@class=&quot;fKwBA18-xxQoxtcDuw5qew==&quot;]/div[@class=&quot;KeRtO-dE1UuZjZ6nmihLZw==&quot;]/div[@class=&quot;VKNwBTYQmj8+cxNrCQBD6g==&quot;]/span[@class=&quot;OWkG6oHwAppMn1hIBsC3pQ==&quot;]</value>
+      <webElementGuid>e279b156-58c6-44d7-aa51-4823177ba5d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div/a/div/div[2]/div/span</value>
+      <webElementGuid>469f0eed-e80a-48ed-a40a-a38ab13fd33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[1]/following::span[1]</value>
+      <webElementGuid>c235d8ef-ea80-4015-8727-cca96b80e60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp17.999.000'])[1]/following::span[7]</value>
+      <webElementGuid>ab202b81-e1b1-432e-94b5-88b6f806b424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp17.836.000'])[2]/preceding::span[1]</value>
+      <webElementGuid>170039d1-f262-4adf-8569-e81e32b07c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp22,9jt'])[1]/preceding::span[1]</value>
+      <webElementGuid>a9329803-352c-4baa-84c7-bfffa175be22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(IBOX) Apple iPhone 15 Pro 1TB 512GB 256GB 128GB Black Blue Titanium - 128GB PROMO, Black Titanium']/parent::*</value>
+      <webElementGuid>fe7c45a4-d12d-4674-9f56-3de8612ff81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/div/div[2]/div/span</value>
+      <webElementGuid>1a368448-9646-422e-93fb-1a8abe6743bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(IBOX) Apple iPhone 15 Pro 1TB 512GB 256GB 128GB Black Blue Titanium - 128GB PROMO, Black Titanium' or . = '(IBOX) Apple iPhone 15 Pro 1TB 512GB 256GB 128GB Black Blue Titanium - 128GB PROMO, Black Titanium')]</value>
+      <webElementGuid>6a98208f-d1ab-498c-bcc6-be9aff3a404a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
